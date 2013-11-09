@@ -13,6 +13,8 @@
     <sprite>sprites\spr_Hoop_Right</sprite>
     <sprite>sprites\spr_Hoop_Left</sprite>
     <sprite>sprites\spr_Basketball_Hoop</sprite>
+    <sprite>sprites\spr_Basketball_Rim_L</sprite>
+    <sprite>sprites\spr_Basketball_Rim_R</sprite>
     <sprite>sprites\spr_Floor</sprite>
   </sprites>
   <backgrounds name="background"/>
