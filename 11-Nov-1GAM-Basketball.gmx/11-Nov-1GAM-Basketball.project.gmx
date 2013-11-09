@@ -8,9 +8,24 @@
   <sprites name="sprites">
     <sprite>sprites\spr_Basketball</sprite>
     <sprite>sprites\spr_Wall</sprite>
+    <sprite>sprites\spr_Angle_Arrow</sprite>
+    <sprite>sprites\spr_Angle_Meter</sprite>
+    <sprite>sprites\spr_Hoop_Right</sprite>
+    <sprite>sprites\spr_Hoop_Left</sprite>
+    <sprite>sprites\spr_Basketball_Hoop</sprite>
+    <sprite>sprites\spr_Floor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_Basketball</object>
+    <object>objects\obj_Wall</object>
+    <object>objects\obj_Basket_Left</object>
+    <object>objects\obj_Basket_Right</object>
+    <object>objects\obj_Point_Detector</object>
+    <object>objects\obj_Basketball_Hoop</object>
+    <object>objects\obj_Floor</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\rm_Main</room>
   </rooms>
