@@ -4,7 +4,12 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_Score</sound>
+    <sound>sound\snd_Bounce_Floor</sound>
+    <sound>sound\snd_Bouce_Rim</sound>
+    <sound>sound\snd_Shoot</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Basketball</sprite>
     <sprite>sprites\spr_Wall</sprite>
