@@ -18,6 +18,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_Reset.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_Basketball</object>
     <object>objects\obj_Wall</object>
