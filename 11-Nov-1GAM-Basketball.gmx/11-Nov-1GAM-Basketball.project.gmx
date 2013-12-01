@@ -21,7 +21,9 @@
     <sprite>sprites\spr_Floor</sprite>
     <sprite>sprites\spr_Point_Detector</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bck_Title</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_Reset.gml</script>
@@ -37,8 +39,10 @@
     <object>objects\obj_Angle_Meter</object>
     <object>objects\obj_Power_Meter</object>
     <object>objects\obj_GUI</object>
+    <object>objects\obj_Title_Controller</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_Title</room>
     <room>rooms\rm_Main</room>
   </rooms>
   <help>
