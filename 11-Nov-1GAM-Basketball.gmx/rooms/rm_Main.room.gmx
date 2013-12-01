@@ -90,6 +90,8 @@
     <instance objName="obj_Basketball" x="32" y="384" name="inst_586810D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Basket_Left" x="424" y="124" name="inst_C3A3D820" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Basket_Right" x="433" y="123" name="inst_0E08D640" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Point_Detector" x="436" y="155" name="inst_C4182D4D" locked="0" code="" scaleX="1" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_GUI" x="0" y="0" name="inst_41774C58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
